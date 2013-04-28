@@ -1,0 +1,19 @@
+html{}
+body{
+   background-color:#DDD;
+   font: 1em 'PT Sans', sans-serif;
+   margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+   font-family: 'Lora', serif;
+}
+
+#header,
+#main,
+#footer {
+   margin:0 auto;
+   width:970px;
+   background-color:#fff;
+   padding: 1em;
+}
